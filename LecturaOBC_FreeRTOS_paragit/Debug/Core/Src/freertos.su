@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:72:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:86:6:MX_FREERTOS_Init	88	static
+../Core/Src/freertos.c:134:6:StartLecturaOBC	16	static
+../Core/Src/freertos.c:153:6:StartConsolidacion	16	static
